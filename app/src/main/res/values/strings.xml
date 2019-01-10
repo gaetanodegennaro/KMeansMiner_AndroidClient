@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KMM_Client</string>
+    <string name="tab_text_1">Database</string>
+    <string name="tab_text_2">File</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_view_1">Indirizzo del server</string>
+    <string name="text_view_2">Nome della tabella</string>
+    <string name="text_view_3">Numero di clusters</string>
+    <string name="table_name">playtennis</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
